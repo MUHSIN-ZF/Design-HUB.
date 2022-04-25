@@ -496,9 +496,13 @@ a.button-style:hover {
 
 .text-info-sec img {
     position: absolute;
-    left: 42%;
+    left: 30%;
     z-index: 9;
     box-shadow: 1px 3px 8px 1px rgba(0, 0, 0, 0.29);
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
 }
 
 /* //banner bottom */
@@ -1158,6 +1162,7 @@ li.subitem1 p {
     .control .icon-material-search {
         line-height: 2.9;
     }
+    
 
     .text-info-sec.bg-light {
         padding: 2em 2em 3em 7em;
