@@ -502,7 +502,7 @@ a.button-style:hover {
     border-radius: 50%;
 }
 .img-fluid{
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
 }
 
