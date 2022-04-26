@@ -499,6 +499,7 @@ a.button-style:hover {
     left: 30%;
     z-index: 9;
     box-shadow: 1px 3px 8px 1px rgba(0, 0, 0, 0.29);
+    border-radius: 50%;
 }
 .img-fluid{
     max-width: 100%;
